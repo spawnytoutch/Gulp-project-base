@@ -1,0 +1,21 @@
+{
+  "name": "gulp-project",
+  "description": "Project Gulp",
+  "main": "index.js",
+  "authors": [
+    "Spawny"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "compass-mixins": "^1.0.2",
+    "susy": "^2.2.12"
+  }
+}
